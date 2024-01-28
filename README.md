@@ -11,7 +11,10 @@ You can visit on my portfolio [Here](https://test-webport-b144p.netlify.app/).
 
 👉👉 Finally, all of my information skills are just at a basic level. I still need to learn and gain more experience.
 
-## Languages
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- ## Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -56,19 +59,4 @@ Python Lib : CCXT , Selenium
 - Network system
 - Linux OS
 - DevOps
-- More!!
-
-<!--
-**B144p/B144p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- More!! -->
