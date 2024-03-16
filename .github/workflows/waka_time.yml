@@ -3,7 +3,8 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0/12 * * *" # action every 12 hr.
+    # - cron: "0 0/12 * * *" # action every 12 hr.
+    - cron: "0 0 * * *" # action everyday.
   push:
     branches: ["main", "develop"]
   pull_request:
