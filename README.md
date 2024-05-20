@@ -14,7 +14,7 @@ You can visit on my portfolio [Here](https://test-webport-b144p.netlify.app/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 17 May 2024
+From: 25 December 2023 - To: 18 May 2024
 
 Total Time: 496 hrs 25 mins
 
