@@ -14,7 +14,7 @@ You can visit on my portfolio [Here](https://bt144p-portfolio.vercel.app/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 06 September 2024
+From: 25 December 2023 - To: 08 September 2024
 
 Total Time: 933 hrs
 
