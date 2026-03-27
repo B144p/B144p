@@ -14,12 +14,12 @@ You can visit on my portfolio [Here](https://bt144p-portfolio.vercel.app/).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2023 - To: 24 March 2026
+From: 25 December 2023 - To: 25 March 2026
 
-Total Time: 2,349 hrs 7 mins
+Total Time: 2,351 hrs 35 mins
 
-TypeScript    2,027 hrs 47 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   86.32 %
-sh            79 hrs 45 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.40 %
+TypeScript    2,030 hrs 16 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.34 %
+sh            79 hrs 45 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.39 %
 JSON          38 hrs 52 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.65 %
 Other         33 hrs 46 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.44 %
 Python        23 hrs 6 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.98 %
